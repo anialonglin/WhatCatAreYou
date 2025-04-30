@@ -30,4 +30,5 @@ Here’s how the app looks in action:
   <img src="assets/demo7.PNG" alt="Result 3" width="30%" />
 </p>
 
+#### 👋 If you like this app, feel free to ⭐️ the repo and share with your fellow cat lovers!
 
