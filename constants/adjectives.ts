@@ -1,4 +1,5 @@
 const adjectives = [
+    // Original
     'majestic',
     'cute',
     'naughty',
@@ -10,7 +11,49 @@ const adjectives = [
     'mysterious',
     'sassy',
     'playful',
-  ];
+  
+    // Funny / meme-y
+    'derpy',
+    'judgy',
+    'chaotic',
+    'spicy',
+    'noisy',
+    'loafy',
+    'zoomy',
+    'chunky',
+    'mischievous',
+    'bossy',
+    'dramatic',
+    'moody',
+    'clingy',
+    'purring',
+    'screamy',
+    'toebeanlicious',
+    'void-like',
+  
+    // Compliments
+    'beautiful',
+    'charming',
+    'radiant',
+    'wise',
+    'gentle',
+    'charismatic',
+    'adorable',
+    'confident',
+    'cool',
+    'fabulous',
+    'sparkly',
+    'kind-hearted',
+    'stylish',
+    'glamorous',
+    'brilliant',
+    'graceful',
+    'witty',
+    'angelic',
+    'bold',
+    'sweet',
+    'lovable',
+  ];  
   
   export default adjectives;
   

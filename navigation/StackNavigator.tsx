@@ -12,7 +12,11 @@ const Stack = createNativeStackNavigator<RootStackParamList>();
 
 export default function StackNavigator() {
   return (
-    <Stack.Navigator screenOptions={{ headerShown: false }}>
+    <Stack.Navigator 
+      screenOptions={{
+        headerShown: false,
+        animation: 'fade', 
+    }}>
       <Stack.Screen name="Home" component={HomeScreen} />
       <Stack.Screen name="Result" component={ResultScreen} />
     </Stack.Navigator>
